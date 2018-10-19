@@ -1,3 +1,6 @@
 #!/bin/bash
 
-# Ich labbere nur blödsinn!
+echo "Hello World!"
+
+echo "Hello You"
+
